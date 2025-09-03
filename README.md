@@ -1,1 +1,1 @@
-Solutions of leet-code chalenges
+#Solutions of leet-code challenge
